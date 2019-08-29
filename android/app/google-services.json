@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "439095464739",
+    "firebase_url": "https://conjack-d581a.firebaseio.com",
+    "project_id": "conjack-d581a",
+    "storage_bucket": "conjack-d581a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439095464739:android:f63b87d7a49a6845",
+        "android_client_info": {
+          "package_name": "com.example.con_jack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439095464739-602n491tdgpnsiufbt7jun6c8uhtonr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxZQ6I6onOByF5JLZ2W-Jc9YinMpzg-aU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439095464739-602n491tdgpnsiufbt7jun6c8uhtonr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
